@@ -35,22 +35,16 @@ The Weather App allows users to input a location and retrieve current weather co
 
 ### Steps
 
-1. Clone the repository or download the files.
 
-   ```sh
-   git clone https://github.com/imaadiiii/PRODIGY_WD_05.git
-   cd weather-app
-   ```
+1. Obtain an API key from [OpenWeatherMap](https://openweathermap.org/).
 
-2. Obtain an API key from [OpenWeatherMap](https://openweathermap.org/).
-
-3. Replace the placeholder API key in `scripts.js` with your actual API key.
+2. Replace the placeholder API key in `scripts.js` with your actual API key.
 
    ```javascript
    const apiKey = 'YOUR_ACTUAL_API_KEY'; // Replace with your actual OpenWeatherMap API key
    ```
 
-4. Open `index.html` in your web browser.
+3. Open `index.html` in your web browser.
 
 ## Usage
 
